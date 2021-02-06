@@ -9,8 +9,8 @@ function addToPlot!(plot, xlist, ylist)
 end
 
 xlist, ylist = [], []
-p = plot([], [])
-open("a.fx", "r") do io
+p = plot([], [], xlim=(0, 1250), ylim=(0, 200))
+open("rl001.fx", "r") do io
     let
         skip_flag = true
         skipchars(ch -> (skip_flag &= (ch != '\f')) || ch == '\f', io)
