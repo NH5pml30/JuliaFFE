@@ -2,3 +2,6 @@
 *.wav
 *.sig
 *.raw
+*.mp3
+.vscode
+*.out
