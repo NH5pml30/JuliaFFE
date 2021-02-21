@@ -1,2 +1,2 @@
 # JuliaFFE
-My (partial) iplementation of YIN, fundamental frequency estimator for speech and music
+My (partial) implementation of YIN, fundamental frequency estimator for speech and music
