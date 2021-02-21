@@ -9,4 +9,4 @@ Example program in `example.jl` reads music file and tries to play sound from fu
 
 `Plotter.jl` is a tool to read and plot `*.fx` files with accurate fundamental frequency (for testing the method on a database). Examples here are `rl001.fx` (laryngeal frequency contour) and `rl001.sig` with voice samples (20kHz, 16-bits (Headerless file),	big-endian) - from database that can be downloaded here: (https://www.cstr.ed.ac.uk/research/projects/fda/fda_eval.tar.gz).
 
-The track uploaded in this repository (`badapple.raw`) is for educational and research purposes only. The track is a property of its owner ([Bad Apple!! (English Cover)](https://www.youtube.com/watch?v=rQg2qngyIZM) by [JubyPhonic](https://jubyphonic.carrd.co)).
+The track segment uploaded in this repository (`badapple.raw`) is for educational and research purposes only. The track is a property of its owner ([Bad Apple!! (English Cover)](https://www.youtube.com/watch?v=rQg2qngyIZM) by [JubyPhonic](https://jubyphonic.carrd.co)).
